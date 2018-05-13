@@ -1,7 +1,7 @@
 # CRUD_JSP-2.0
 ## Realizado por: Ángeleles Bueno Aguilar
 
-Ampliación del Crud anterior --> <a href="https://github.com/angelesbueno/CRUD_JSP"></a>.
+Ampliación del Crud anterior --> [PeliClub](https://github.com/angelesbueno/CRUD_JSP)
 
 En esta nueva versión he incorporado un login que aparecerá siempre que se inicie la aplicación.
 
