@@ -7,7 +7,7 @@ En esta nueva versión he incorporado un login que aparecerá siempre que se ini
 Para optimizar código, he separado todo el estilo un un archivo .css propio.
 
 ### Login: Aparece un formulario para introducir el nombre de usuario y la contraseña.
-img src="capturas/login.jpeg"/>
+<img src="capturas/login.jpeg"/>
 
 ### Si no se introdujeran los datos correctamente, aparecería un mensaje de error.
 <img src="capturas/loginNoOk.jpeg"/>
