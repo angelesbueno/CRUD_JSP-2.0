@@ -1,0 +1,44 @@
+.navbar-inverse .navbar-brand, .navbar-inverse .navbar-nav > li > a {
+    text-shadow: none;
+}
+body {
+    background-color: antiquewhite!important;
+}
+th, tbody {
+    text-align: center!important;
+}
+td {
+    vertical-align: middle!important;
+}
+#autor {
+    color: black;
+    padding: 15px;
+    position: relative;
+    left: 400px;
+}
+#formLogin {
+    width: 80%;
+    margin: 0 auto;
+    font-size: 1.5em;
+    border: none;
+}
+#cajaFormulario {
+    padding: 5%;
+}
+#headerFormLogin {
+    border: none;
+}
+input[type=number]::-webkit-outer-spin-button, input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+input[type=number] {
+    -moz-appearance:textfield;
+}
+#menuArriba {
+    background-color: lightcoral;
+}
+.noBorder {
+    border: none!important;
+}
+
