@@ -38,13 +38,13 @@
         Statement s = conexion.createStatement();
 
         request.setCharacterEncoding("UTF-8");
-        
+
           String insercion = "INSERT INTO Prestamo (CodSoc, CodPEL) VALUES ("
                        + Integer.valueOf(request.getParameter("codSoc"))
                        + ", " + Integer.valueOf(request.getParameter("codPel")) + ")";
         s.execute(insercion);
         response.sendRedirect("prestamoOk.jsp");
-        
+   
         conexion.close();      
     %>
   </body>
